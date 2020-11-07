@@ -1,16 +1,63 @@
-### Hi there 👋
+<h1 align=center>
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello ! I'm EdouardGautier
+</h1>
 
-<!--
-**EdouardGautier/EdouardGautier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4 align=center>I'm an engineering student :mortar_board:</h4>
+<h6 align=center>At ESEO Anger in France :fr:</h6> 
 
-Here are some ideas to get you started:
+</br>
+<h3>:desktop_computer: Language/Platform</h3>
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align=center>
+    <a href="https://www.python.org/">
+        <img src="https://img.shields.io/static/v1?style=flat&message=Python&logo=python&labelColor=FFD43B&color=FFD43B&logoColor=306998&label=%20"/>
+    <a>
+    <a href="https://www.java.com/fr/">
+        <img src="https://img.shields.io/static/v1?style=flat&message=Java&logo=java&labelColor=007396&color=007396&logoColor=F89820&label=%20"/>
+    <a>
+    <img src="https://img.shields.io/static/v1?style=flat&message=C&logo=c&labelColor=A8B9CC&color=A8B9CC&logoColor=FFFFFF&label=%20"/>
+    <a href="https://www.arduino.cc/">
+        <img src="https://img.shields.io/static/v1?style=flat&message=Arduino&logo=arduino&labelColor=00979D&color=00979D&logoColor=E47128&label=%20"/>
+    <a>
+    <a href="https://git-scm.com/">
+        <img src="https://img.shields.io/static/v1?style=flat&message=Git&logo=git&labelColor=F05032&color=F05032&logoColor=FFFFFF&label=%20"/>
+    <a>
+    <a href="https://github.com/EdouardGautier">
+        <img src="https://img.shields.io/static/v1?style=flat&message=GitHub&logo=GitHub&labelColor=362946&color=362946&logoColor=FFFFFF&label=%20"/>
+    <a>
+    <a href="https://app.codacy.com/organizations/gh/EdouardGautier/repositories">
+        <img src="https://img.shields.io/static/v1?style=flat&message=Codacy&logo=Codacy&labelColor=234377&color=234377&logoColor=FFFFFF&label=%20"/>
+    <a>
+    <a href="https://www.microsoft.com/fr-fr/windows">
+        <img src="https://img.shields.io/static/v1?style=flat&message=Windows&logo=windows&labelColor=0078D6&color=0078D6&logoColor=FFFFFF&label=%20"/>
+    <a>
+    <a href="https://getfedora.org/fr/">
+        <img src="https://img.shields.io/static/v1?style=flat&message=Fedora&logo=fedora&labelColor=283F6E&color=283F6E&logoColor=FFFFFF&label=%20"/>
+    <a>
+    <img src="https://img.shields.io/static/v1?style=flat&message=Linux&logo=linux&labelColor=black&color=black&logoColor=white&label=%20"/>
+</p>
+
+</br>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdouardGautier&exclude_repo=EdouardGautier&langs_count=4&layout=compact&theme=monokai"/>
+</p>
+<br>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=EdouardGautier&show_icons=true&count_private=true&theme=monokai"/>
+</p>
+
+<h3>:speech_balloon: Contact</h3>
+</br>
+
+<a href="https://www.linkedin.com/in/edouard-gautier-014878166/">
+        <img src="https://img.shields.io/static/v1?style=flat&message=Linkedin&logo=Linkedin&labelColor=0A66C2&color=0A66C2&logoColor=white&label=%20"/>
+</a>
+</br>
+<a href="mailto:edouardgautier@outlook.fr">
+        <img src="https://img.shields.io/static/v1?style=flat&message=Outlook&logo=outlook&labelColor=0078D4&color=0078D4&logoColor=white&label=%20"/>
+</a>
+<a href="mailto:edouardgautier@outlook.fr">
+    edouardgautier@outlook.fr
+</a>
