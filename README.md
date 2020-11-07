@@ -50,14 +50,11 @@
 
 <h3>:speech_balloon: Contact</h3>
 </br>
-
-<a href="https://www.linkedin.com/in/edouard-gautier-014878166/">
-        <img src="https://img.shields.io/static/v1?style=flat&message=Linkedin&logo=Linkedin&labelColor=0A66C2&color=0A66C2&logoColor=white&label=%20"/>
-</a>
-</br>
-<a href="mailto:edouardgautier@outlook.fr">
-        <img src="https://img.shields.io/static/v1?style=flat&message=Outlook&logo=outlook&labelColor=0078D4&color=0078D4&logoColor=white&label=%20"/>
-</a>
-<a href="mailto:edouardgautier@outlook.fr">
-    edouardgautier@outlook.fr
-</a>
+<p align=center>
+    <a href="https://www.linkedin.com/in/edouard-gautier-014878166/">
+            <img src="https://img.shields.io/static/v1?style=flat&message=Linkedin&logo=Linkedin&labelColor=0A66C2&color=0A66C2&logoColor=white&label=%20"/>
+    </a>
+    <a href="mailto:edouardgautier@outlook.fr">
+            <img src="https://img.shields.io/static/v1?style=flat&message=Outlook&logo=outlook&labelColor=0078D4&color=0078D4&logoColor=white&label=%20"/>
+    </a>
+</p>
