@@ -7,7 +7,6 @@
 
 </br>
 <h3>:desktop_computer: Language/Platform</h3>
-</br>
 
 <p align=center>
     <a href="https://www.python.org/">
@@ -38,23 +37,20 @@
     <img src="https://img.shields.io/static/v1?style=flat&message=Linux&logo=linux&labelColor=black&color=black&logoColor=white&label=%20"/>
 </p>
 
-</br>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdouardGautier&exclude_repo=EdouardGautier&langs_count=4&layout=compact&theme=monokai"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdouardGautier&exclude_repo=EdouardGautier&langs_count=4&layout=compact&theme=algolia  "/>
 </p>
-<br>
-
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=EdouardGautier&show_icons=true&count_private=true&theme=monokai"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=EdouardGautier&show_icons=true&count_private=true&theme=algolia  "/>
 </p>
 
 <h3>:speech_balloon: Contact</h3>
-</br>
+
 <p align=center>
     <a href="https://www.linkedin.com/in/edouard-gautier-014878166/">
             <img src="https://img.shields.io/static/v1?style=flat&message=Linkedin&logo=Linkedin&labelColor=0A66C2&color=0A66C2&logoColor=white&label=%20"/>
     </a>
     <a href="mailto:edouardgautier@outlook.fr">
-            <img src="https://img.shields.io/static/v1?style=flat&message=Outlook&logo=outlook&labelColor=0078D4&color=0078D4&logoColor=white&label=%20"/>
+            <img src="https://img.shields.io/static/v1?style=flat&message=Outlook&logo=Gmail&labelColor=0078D4&color=0078D4&logoColor=white&label=%20"/>
     </a>
 </p>
