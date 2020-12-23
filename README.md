@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align=center>I'm an engineering student :mortar_board:</h4>
-<h6 align=center>At ESEO Anger in France :fr:</h6> 
+<h6 align=center>At ESEO Angers in France :fr:</h6> 
 
 </br>
 <h3>:desktop_computer: Language/Platform</h3>
