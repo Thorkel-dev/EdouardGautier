@@ -34,7 +34,7 @@
     <a href="https://manjaro.org/">
         <img src="https://img.shields.io/static/v1?style=flat&message=Manjaro&logo=manjaro&labelColor=35BF5C&color=35BF5C&logoColor=FFFFFF&label=%20"/>
     <a>
-    <img src="https://img.shields.io/static/v1?style=flat&message=Linux&logo=linux&labelColor=black&color=black&logoColor=white&label=%20"/>
+    <img src="https://img.shields.io/static/v1?style=flat&message=Linux&logo=linux&labelColor=FCC624&color=FCC624&logoColor=black&label=%20"/>
     <a href="https://code.visualstudio.com/">
         <img src="https://img.shields.io/static/v1?style=flat&message=VSCode&logo=visual-studio-code&labelColor=007ACC&color=007ACC&logoColor=FFFFFF&label=%20"/>
     <a>
@@ -51,7 +51,7 @@
 
 <p align=center>
     <a href="https://www.linkedin.com/in/edouard-gautier-014878166/">
-            <img src="https://img.shields.io/static/v1?style=flat&message=Edouard Gautier&logo=linkedin&labelColor=0A66C2&color=0A66C2&logoColor=white&label=%20"/>
+            <img src="https://img.shields.io/static/v1?style=flat&message=Edouard_Gautier&logo=linkedin&labelColor=0A66C2&color=0A66C2&logoColor=white&label=%20"/>
     </a>
     <a href="mailto:edouardgautier@outlook.fr">
             <img src="https://img.shields.io/static/v1?style=flat&message=edouardgautier@outlook.fr&logo=microsoft-outlook&labelColor=0078D4&color=0078D4&logoColor=white&label=%20"/>
