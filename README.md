@@ -31,6 +31,7 @@
     <a href="https://www.microsoft.com/fr-fr/windows">
         <img src="https://img.shields.io/static/v1?style=flat&message=Windows&logo=windows&labelColor=0078D6&color=0078D6&logoColor=FFFFFF&label=%20"/>
     <a>
+    <img src="https://img.shields.io/static/v1?style=flat&message=VSCode&logo=visual-studio-code&labelColor=007ACC&color=007ACC&logoColor=FFFFFF&label=%20"/>
     <img src="https://img.shields.io/static/v1?style=flat&message=Manjaro&logo=manjaro&labelColor=35BF5C&color=35BF5C&logoColor=FFFFFF&label=%20"/>
     <img src="https://img.shields.io/static/v1?style=flat&message=Linux&logo=linux&labelColor=black&color=black&logoColor=white&label=%20"/>
 </p>
