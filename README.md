@@ -51,9 +51,9 @@
 
 <p align=center>
     <a href="https://www.linkedin.com/in/edouard-gautier-014878166/">
-            <img src="https://img.shields.io/static/v1?style=flat&message=Edouard Gautier&logo=Linkedin&labelColor=0A66C2&color=0A66C2&logoColor=white&label=%20"/>
+            <img src="https://img.shields.io/static/v1?style=flat&message=Edouard Gautier&logo=linkedin&labelColor=0A66C2&color=0A66C2&logoColor=white&label=%20"/>
     </a>
     <a href="mailto:edouardgautier@outlook.fr">
-            <img src="https://img.shields.io/static/v1?style=flat&message=edouardgautier@outlook.fr&logo=Gmail&labelColor=0078D4&color=0078D4&logoColor=white&label=%20"/>
+            <img src="https://img.shields.io/static/v1?style=flat&message=edouardgautier@outlook.fr&logo=microsoft-outlook&labelColor=0078D4&color=0078D4&logoColor=white&label=%20"/>
     </a>
 </p>
