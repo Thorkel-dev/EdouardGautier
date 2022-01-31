@@ -1,5 +1,5 @@
 <h1 align=center>
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello ! I'm EdouardGautier
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello ! I'm Edouard Gautier
 </h1>
 
 <h4 align=center>I'm an engineering student :mortar_board:</h4>
@@ -41,10 +41,10 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdouardGautier&exclude_repo=EdouardGautier&langs_count=4&layout=compact&theme=algolia  "/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thorkel-dev&exclude_repo=EdouardGautier&langs_count=4&layout=compact&theme=algolia  "/>
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=EdouardGautier&show_icons=true&count_private=true&theme=algolia  "/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Thorkel-dev&show_icons=true&count_private=true&theme=algolia  "/>
 </p>
 
 <h3>:speech_balloon: Contact</h3>
