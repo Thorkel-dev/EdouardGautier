@@ -15,17 +15,17 @@
     <a href="https://www.java.com/fr/">
         <img src="https://img.shields.io/static/v1?style=flat&message=Java&logo=java&labelColor=007396&color=007396&logoColor=F89820&label=%20"/>
     <a>
-    <img src="https://img.shields.io/static/v1?style=flat&message=C&logo=c&labelColor=A8B9CC&color=A8B9CC&logoColor=FFFFFF&label=%20"/>
-    <a href="https://www.arduino.cc/">
-        <img src="https://img.shields.io/static/v1?style=flat&message=Arduino&logo=arduino&labelColor=00979D&color=00979D&logoColor=E47128&label=%20"/>
+    <img src="https://img.shields.io/static/v1?style=flat&message=C&logo=c&labelColor=00599C&color=00599C&logoColor=FFFFFF&label=%20"/>
     <a>
     <a href="https://git-scm.com/">
         <img src="https://img.shields.io/static/v1?style=flat&message=Git&logo=git&labelColor=F05032&color=F05032&logoColor=FFFFFF&label=%20"/>
     <a>
-    <a href="https://github.com/EdouardGautier">
+    <a href="https://github.com/Thorkel-dev">
         <img src="https://img.shields.io/static/v1?style=flat&message=GitHub&logo=GitHub&labelColor=362946&color=362946&logoColor=FFFFFF&label=%20"/>
     <a>
-    <a href="https://app.codacy.com/organizations/gh/EdouardGautier/repositories">
+        <img src="https://img.shields.io/static/v1?style=flat&message=Gitlab&logo=Gitlab&labelColor=554488&color=554488&logoColor=FFFFFF&label=%20"/>
+    <a>
+    <a href="https://app.codacy.com/organizations/gh/Thorkel-dev/repositories">
         <img src="https://img.shields.io/static/v1?style=flat&message=Codacy&logo=Codacy&labelColor=234377&color=234377&logoColor=FFFFFF&label=%20"/>
     <a>
     <a href="https://www.microsoft.com/fr-fr/windows">
@@ -41,7 +41,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thorkel-dev&exclude_repo=EdouardGautier&langs_count=4&layout=compact&theme=algolia  "/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thorkel-dev&exclude_repo=Thorkel-dev&langs_count=4&layout=compact&theme=algolia  "/>
 </p>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Thorkel-dev&show_icons=true&count_private=true&theme=algolia  "/>
@@ -57,3 +57,7 @@
             <img src="https://img.shields.io/static/v1?style=flat&message=edouardgautier@outlook.fr&logo=microsoft-outlook&labelColor=0078D4&color=0078D4&logoColor=white&label=%20"/>
     </a>
 </p>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Thorkel-dev&&style=flat-square" align="center" />
+</div>  
