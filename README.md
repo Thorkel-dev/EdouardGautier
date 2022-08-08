@@ -13,9 +13,12 @@
         <img src="https://img.shields.io/static/v1?style=flat&message=Python&logo=python&labelColor=FFD43B&color=FFD43B&logoColor=306998&label=%20"/>
     <a>
     <a href="https://www.java.com/fr/">
-        <img src="https://img.shields.io/static/v1?style=flat&message=Java&logo=java&labelColor=007396&color=007396&logoColor=F89820&label=%20"/>
+        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=fflat&logo=java&logoColor=white"/>
     <a>
     <img src="https://img.shields.io/static/v1?style=flat&message=C&logo=c&labelColor=00599C&color=00599C&logoColor=FFFFFF&label=%20"/>
+    <a>
+    <a href="https://fr.wikipedia.org/wiki/LaTeX">
+        <img src="https://img.shields.io/badge/LaTeX-47A141?style=fflat&logo=LaTeX&logoColor=white"/>
     <a>
     <a href="https://git-scm.com/">
         <img src="https://img.shields.io/static/v1?style=flat&message=Git&logo=git&labelColor=F05032&color=F05032&logoColor=FFFFFF&label=%20"/>
@@ -25,8 +28,8 @@
     <a>
         <img src="https://img.shields.io/static/v1?style=flat&message=Gitlab&logo=Gitlab&labelColor=554488&color=554488&logoColor=FFFFFF&label=%20"/>
     <a>
-    <a href="https://app.codacy.com/organizations/gh/Thorkel-dev/repositories">
-        <img src="https://img.shields.io/static/v1?style=flat&message=Codacy&logo=Codacy&labelColor=234377&color=234377&logoColor=FFFFFF&label=%20"/>
+    <a href="https://www.docker.com/">
+        <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=fflat&logo=docker&logoColor=white"/>
     <a>
     <a href="https://www.microsoft.com/fr-fr/windows">
         <img src="https://img.shields.io/static/v1?style=flat&message=Windows&logo=windows&labelColor=0078D6&color=0078D6&logoColor=FFFFFF&label=%20"/>
@@ -60,4 +63,4 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Thorkel-dev&&style=flat-square" align="center" />
-</div>  
+</div>
