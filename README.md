@@ -25,6 +25,16 @@
     <a>
         <img src="https://img.shields.io/static/v1?style=flat&message=Gitlab&logo=Gitlab&labelColor=554488&color=554488&logoColor=FFFFFF&label=%20"/>
     <a>
+        <img src="https://img.shields.io/badge/Bitbucket-0747a6?style=?style=flat&logo=bitbucket&logoColor=white"/>
+    <a>
+        <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/>
+    <a>
+        <img src="https://img.shields.io/badge/Github%20Actions-282a2e?style=flat&logo=githubactions&logoColor=367cfe"/>
+    <a>
+        <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/>
+    <a>
+        <img src="https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white"/>
+    <a>
     <a href="https://www.docker.com/">
         <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=fflat&logo=docker&logoColor=white"/>
     <a>
@@ -45,6 +55,9 @@
 </p>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Thorkel-dev&show_icons=true&count_private=true&theme=algolia"/>
+</p>
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thorkel-dev&theme=algolia"/>
 </p>
 
 <h3>:speech_balloon: Contact</h3>
